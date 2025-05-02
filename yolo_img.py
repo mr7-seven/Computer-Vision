@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import cv2
 
-# Load model YOLOv5s
+# Load model YOLOv5n
 model = YOLO('yolov5n.pt')
 
 # Load gambar
